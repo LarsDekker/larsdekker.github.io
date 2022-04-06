@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a7688d2.chunk.css",
+    "main.css": "/static/css/main.70429eec.chunk.css",
     "main.js": "/static/js/main.92548b77.chunk.js",
     "main.js.map": "/static/js/main.92548b77.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b571ac3b.js",
@@ -9,10 +9,10 @@
     "static/js/2.751b048d.chunk.js": "/static/js/2.751b048d.chunk.js",
     "static/js/2.751b048d.chunk.js.map": "/static/js/2.751b048d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c2b9c28d47f8ff8d29a686f1e6d92717.js": "/precache-manifest.c2b9c28d47f8ff8d29a686f1e6d92717.js",
+    "precache-manifest.c0c379ef124f77e29055877a8bb53b59.js": "/precache-manifest.c0c379ef124f77e29055877a8bb53b59.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/static/css/2.57ddf7ad.chunk.css.map",
-    "static/css/main.6a7688d2.chunk.css.map": "/static/css/main.6a7688d2.chunk.css.map",
+    "static/css/main.70429eec.chunk.css.map": "/static/css/main.70429eec.chunk.css.map",
     "static/js/2.751b048d.chunk.js.LICENSE.txt": "/static/js/2.751b048d.chunk.js.LICENSE.txt",
     "static/media/laptop screen.png": "/static/media/laptop screen.215380d5.png",
     "static/media/lars-maart-2022-small.jpeg": "/static/media/lars-maart-2022-small.758c9865.jpeg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b571ac3b.js",
     "static/css/2.57ddf7ad.chunk.css",
     "static/js/2.751b048d.chunk.js",
-    "static/css/main.6a7688d2.chunk.css",
+    "static/css/main.70429eec.chunk.css",
     "static/js/main.92548b77.chunk.js"
   ]
 }
