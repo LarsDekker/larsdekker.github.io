@@ -13,8 +13,13 @@
 }
 
 .portfolio-content {
-  height: 100vh;
-  overflow: auto;
+  /* height: 100vh;
+  overflow: auto; */
+}
+
+.sticky {
+  position: sticky;
+  top: 1.5rem;
 }
 
 .App-header {
